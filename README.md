@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @panditprogrammer
+- 👋 Hi, I’m @Pandit Programmer
 - 👀 I’m interested in C, C++, Java, Python, C#, Javascript, PHP and MYSQL.
 - 🌱 I’m currently learning New Programming language.
 - 💞️ I’m looking to collaborate on ...
