@@ -30,3 +30,4 @@ I'm always excited to collaborate on new projects and contribute to the tech com
 - https://paymano.com : Transfer Money With The QRCode In A Second (Like Paytm)
 - https://ugocash.net : Transfer Money With The QRCode
 - https://assisting.in : A well-structured program which can play a role of decision support system (for NEET etc)
+- https://bizmapia.com : A business listing website for individual, company etc. Advertising products and services and get customer for your business.
