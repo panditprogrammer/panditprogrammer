@@ -1,5 +1,5 @@
 ## Hello World! 👋
-I'm Chandan Prajapati, a software engineer based in India, specializing in creating web applications and working as a backend web developer. With 5 years of experience in the field, I've successfully completed over 200 projects for clients worldwide.
+I'm Chandan Prajapati, a Software Engineer from India, specializing in creating web applications and working as a backend web developer. With 5 years of experience in Software development field, I've successfully completed more than 200 projects for my worldwide clients.
 
 ### About Me
 - 💻 **Experience**: I have been working in the software industry for 5 years, honing my skills in web development and backend systems.
@@ -31,3 +31,4 @@ I'm always excited to collaborate on new projects and contribute to the tech com
 - https://ugocash.net : Transfer Money With The QRCode
 - https://assisting.in : A well-structured program which can play a role of decision support system (for NEET etc)
 - https://bizmapia.com : A business listing website for individual, company etc. Advertising products and services and get customer for your business.
+- http://pawanjaiswal.in : A Social MLA website for getting public Insights and engagements. 
