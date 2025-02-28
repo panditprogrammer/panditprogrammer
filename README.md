@@ -24,11 +24,6 @@ I'm always excited to collaborate on new projects and contribute to the tech com
 
 - https://panditprogrammer.com : My Website
 - https://qsinfinity.com : Software Company which provide CRM, HRMS, ERP on Cloud etc.
-- https://ewiisolutions.com : CRM (SaaS)
-- https://www.ewiigo.com : DUDE APPS PROVIDES services like rides, food delivery, groceries, package delivery, and professional help.
-- https://creetnet.com : Domain provider
-- https://paymano.com : Transfer Money With The QRCode In A Second (Like Paytm)
-- https://ugocash.net : Transfer Money With The QRCode
 - https://assisting.in : A well-structured program which can play a role of decision support system (for NEET etc)
 - https://bizmapia.com : Unpaid: A business listing website for individual, company etc. Advertising products and services and get customer for your business.
 - http://pawanjaiswal.in : A Social MLA website for getting public Insights and engagements.
