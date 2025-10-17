@@ -1,5 +1,5 @@
 ## Hello World! 👋
-I'm Chandan Prajapati, a Software Engineer from India, specializing in creating web applications and working as a backend web developer. With 5 years of experience in Software development field, I've successfully completed more than 200 projects for my worldwide clients.
+I'm Chandan Prajapati, a Software Engineer from India, specializing in creating web applications and working as a backend web developer. With 6+ years experience in Software development field, I've successfully completed more than 250 projects for my worldwide clients.
 
 ### About Me
 - 💻 **Experience**: I have been working in the software industry for 5 years, honing my skills in web development and backend systems.
@@ -31,4 +31,7 @@ I'm always excited to collaborate on new projects and contribute to the tech com
 - https://www.ewiigo.com : Experience 30+ services with the EwiiGo App (Free Source Code Available).
 - https://ewiisolutions.com : A comprehensive business suite with HRM, CRM, invoicing, sales, and purchase management, streamlining all essential operations. Enhance productivity and simplify processes with this all-in-one solution. (Free Source Code Available).
 - https://paymano.com : End-to-end payment solutions, robust data management, and financial tools designed to accelerate your success. (Free Source Code Available)
-- https://www.ugocash.net : Transfer and Deposite your money anytime, anywhere in the world (Free Source Code Available with android IOS) 
+- https://www.ugocash.net : Transfer and Deposite your money anytime, anywhere in the world (Free Source Code Available with android IOS)
+- https://bynepal.com :  AN ONLINE INDUSTRIAL SPARES & EQUIPMENT SHOPPING PLATFORM
+- https://plazmasoft.com : Leading Web & Mobile Application Development Company
+- https://creetnet.com : Marketplace for Domains, Businesses, and White-Label Services (Source code available)
