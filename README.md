@@ -25,6 +25,10 @@ I'm always excited to collaborate on new projects and contribute to the tech com
 - https://panditprogrammer.com : My Website
 - https://qsinfinity.com : Software Company which provide CRM, HRMS, ERP on Cloud etc.
 - https://assisting.in : A well-structured program which can play a role of decision support system (for NEET etc)
-- https://bizmapia.com : Unpaid: A business listing website for individual, company etc. Advertising products and services and get customer for your business.
+- https://bizmapia.com : Taxi booking and business listing website for individual, company etc. Advertising products and services and get customer for your business.
 - http://pawanjaiswal.in : A Social MLA website for getting public Insights and engagements.
 - https://arshsquare.com : A business listing website for individual, company etc. Advertising products and services and get customer for your business.
+- https://www.ewiigo.com : Experience 30+ services with the EwiiGo App (Free Source Code Available).
+- https://ewiisolutions.com : A comprehensive business suite with HRM, CRM, invoicing, sales, and purchase management, streamlining all essential operations. Enhance productivity and simplify processes with this all-in-one solution. (Free Source Code Available).
+- https://paymano.com : End-to-end payment solutions, robust data management, and financial tools designed to accelerate your success. (Free Source Code Available)
+- https://www.ugocash.net : Transfer and Deposite your money anytime, anywhere in the world (Free Source Code Available with android IOS) 
